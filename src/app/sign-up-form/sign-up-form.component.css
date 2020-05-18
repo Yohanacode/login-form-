@@ -1,0 +1,13 @@
+#ui{
+    padding: 30px;
+    margin-top: 50px;
+    background-color: dimgray;
+    color: floralwhite;
+    border-radius: 10px;
+    opacity: 0.7;
+
+}
+
+body{
+    background-color: slategrey;
+}
